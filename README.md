@@ -8,11 +8,11 @@ Project source can be downloaded from: https://github.com/furiameyer/BingoBongo
 
 ## Author & Contributor List
 
-Ariel Meyer (github.com/furiameyer) - Firebase database, Back-End, & Front-End
+* [Ariel Meyer](github.com/furiameyer) - Firebase database, Back-End, & Front-End
 
-Albert Schumacher (github.com/ahs012) - API integration, & Back-End
+* [Albert Schumacher](github.com/ahs012) - API integration, & Back-End
 
-Victor Lopez (github.com/vicklawl)- Front-End
+* [Victor Lopez](github.com/vicklawl)- Front-End
 
 ---
 
@@ -27,11 +27,11 @@ The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO
 1. Open BINGOBONGO/index.html
 2. Enter name on top right of window 
 	* Open BINGOBONGO/assets/Admin_Files/index.html
-3. Wait for 3 live player sessions for game countdown to commence (https://slides.com/smoss012/deck#/3)
+3. Wait for 3 live player sessions for game countdown to commence ([Example](https://slides.com/smoss012/deck#/3))
 	* Start Game by clicking *Kick-Off* on Adming Panel Page
-4. Select custom background by clicking CAT/DOG buttons (https://slides.com/smoss012/deck#/4/1)
+4. Select custom background by clicking CAT/DOG buttons ([Example](https://slides.com/smoss012/deck#/4/1))
 5. Click BINGO button when you score! *Good Luck!*
-*Example Tutorial (https://slides.com/smoss012/deck#/2)
+* [Example Tutorial](https://slides.com/smoss012/deck#/2)
 
 ---
 
