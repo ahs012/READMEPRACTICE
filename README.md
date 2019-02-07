@@ -49,11 +49,4 @@ The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO
 * [Google Fonts](https://fonts.google.com/) - Text Styling
 
 ---
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
+
