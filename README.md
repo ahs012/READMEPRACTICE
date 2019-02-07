@@ -4,7 +4,14 @@
 
 * Project source can be downloaded from: https://github.com/furiameyer/BingoBongo
 
-* [For Presentation & Demo please click here](https://slides.com/smoss012/deck/live#/)
+* [For Presentation & Demo please click here](https://slides.com/smoss012/deck/live#/) 
+
+---
+
+## Purpose of BINGO BONGO
+
+![alt text](https://github.com/furiameyer/BingoBongo/tree/master/assets/images-sounds/bongo.png)
+The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO BONGO** is a real-time online multiplayer game with chat integration where anyone can play & chat across the globe with others.
 
 ---
 
@@ -15,12 +22,6 @@
 * [Albert Schumacher](github.com/ahs012) - API integration, & Back-End
 
 * [Victor Lopez](github.com/vicklawl)- Front-End
-
----
-
-## Purpose of BINGO BONGO
-
-The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO BONGO** is a real-time online multiplayer game with chat integration where anyone can play & chat across the globe with others.
 
 ---
 
