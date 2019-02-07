@@ -10,7 +10,7 @@
 
 ## Purpose of BINGO BONGO
 
-![alt text](https://github.com/furiameyer/BingoBongo/blob/master/assets/images-sounds/bongo.png?raw=true){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![alt text](https://github.com/furiameyer/BingoBongo/blob/master/assets/images-sounds/bongo.png?raw=true)
 
 The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO BONGO** is a real-time online multiplayer game with chat integration where anyone can play & chat across the globe with others.
 
@@ -49,5 +49,11 @@ The purpose of **BINGO BONGO** is to provide a fun time killer for kids. **BINGO
 * [Google Fonts](https://fonts.google.com/) - Text Styling
 
 ---
-
-
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
