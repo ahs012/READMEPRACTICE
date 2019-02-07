@@ -1,4 +1,4 @@
-# BINGO BONGO
+# **BINGO BONGO**
 
 ## *Real-time online multiplayer Bingo*
 
@@ -8,13 +8,15 @@ Project source can be downloaded from: https://github.com/furiameyer/BingoBongo
 
 ## Author & Contributor List
 
-Ariel Meyer - Firebase database, Back-End, & Front-End
-Albert Schumacher - API integration, & Back-End
-Victor Lopez - Front-End
+Ariel Meyer (github.com/furiameyer) - Firebase database, Back-End, & Front-End
+
+Albert Schumacher (github.com/ahs012) - API integration, & Back-End
+
+Victor Lopez (github.com/vicklawl)- Front-End
 
 ---
 
-##Purpose of BINGO BONGO
+## Purpose of BINGO BONGO
 
 The purpose of **BINGO BONGO** is to provide a fun time killer for kids.**BINGO BONGO** is a real-time online multiplayer game with chat integration where anyone can play & chat across the globe with others.
 
